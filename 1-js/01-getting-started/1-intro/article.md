@@ -72,7 +72,7 @@ The examples of such restrictions are:
 
     This is called the "Same Origin Policy". To work around that, *both pages* must contain a special JavaScript code that handles data exchange.
 
-    The limitation is again for user's safety. A page from `http://anysite.com` which a user has opened must not be able to access another browser tab with the URL `http://gmail.com` and steal information from there.
+    The limitation is again for the user's safety. A page from `http://anysite.com` which a user has opened must not be able to access another browser tab with the URL `http://gmail.com` and steal information from there.
 - JavaScript can easily communicate over the net to the server where the current page came from. But its ability to receive data from other sites/domains is crippled. Though possible, it requires explicit agreement (expressed in HTTP headers) from the remote side. Once again, that's safety limitations.
 
 ![](limitations.png)
