@@ -77,7 +77,7 @@ The examples of such restrictions are:
 
 ![](limitations.png)
 
-Such limits do not exist if JavaScript is used outside of the browser, for example on a server. Modern browsers also allow installing plugin/extensions which may get extended permissions.
+Such limits do not exist if JavaScript is used outside of the browser, for example on a server. Modern browsers also allow installing plugins/extensions which may get extended permissions.
 
 ## What makes JavaScript unique?
 
@@ -102,7 +102,7 @@ The syntax of JavaScript does not suit everyone's needs. Different people want d
 
 That's to be expected, because projects and requirements are different for everyone.
 
-So recently a plethora of new languages appeared, which are *transpiled* (converted) to JavaScript before they run in the browser.
+So recently, a plethora of new languages appeared, which are *transpiled* (converted) to JavaScript before they run in the browser.
 
 Modern tools make the transpilation very fast and transparent, actually allowing developers to code in another language and auto-converting it "under the hood".
 
@@ -118,4 +118,4 @@ There are more. Of course, even if we use one of those languages, we should also
 
 - JavaScript was initially created as a browser-only language, but now it is used in many other environments as well.
 - At this moment, JavaScript has a unique position as the most widely-adopted browser language with full integration with HTML/CSS.
-- There are many languages that get "transpiled" to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
+- There are many languages that get "transpiled" into JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
